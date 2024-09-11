@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujayGangan
 - 👀 I’m interested in C, JAVA, Android, Flutter;
-- 🌱 I’m currently learning DART
+- 🌱 I’m currently learning Js
 
 <!---
 SujayGangan/SujayGangan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
